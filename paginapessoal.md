@@ -1,6 +1,6 @@
 <html>
-	<body>
-		<table>
+<body>
+	<table>
 		  <tbody>
 			  <tr height="90">
 				  <th width="2000" style="background-color:#FF5B00"> </th>
@@ -60,5 +60,6 @@
 			</tr>
 			<tr height="30"> </tr>
 		</tbody>
-	</body>
+	</table>
+</body>
 </html>
