@@ -12,9 +12,7 @@
 			</tr>
 		</tbody>
 		</table>
-
 		<h> LOGIN </h>
-
 	</body>
 
 </html>
