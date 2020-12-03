@@ -1,6 +1,4 @@
 <html>
-	<head>
-	</head>
 	<body>
 		<table>
 		<tbody>
@@ -37,9 +35,5 @@
 			</tr>
 		</tbody>
 		</table>
-		
-
-
 	</body>
-
 </html>
