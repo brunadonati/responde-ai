@@ -10,7 +10,7 @@
 			</tr>
 			<tr height="90"> </tr>
 			<tr> 
-				<td colspan="4" style="font-size:200%; font-family:arial; text-align:center"> <b> LOGIN </b> </td> 
+				<td colspan="4" style="font-size:200%; font-family:arial" align="center"> <b> LOGIN </b> </td> 
 			</tr>
 			<tr height="30"> </tr>
 			<tr> 
@@ -26,7 +26,7 @@
 		<tbody>
 			<tr>
 				<td height="40" width="820" style="background-color:white"> </td>
-				<td width="230" style="background-color:#FF5B00; font-size:125%; font-family:arial; text-align:center; color:#FFFFFF"> ENTRAR </td> 
+				<td width="230" style="background-color:#FF5B00; font-size:125%; font-family:arial; color:#FFFFFF" align="center"> ENTRAR </td> 
 			</tr>
 			<tr height="15"> </tr>
 			<tr>
