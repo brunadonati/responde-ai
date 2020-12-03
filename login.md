@@ -23,12 +23,10 @@
 				<table>
 					<tr>
 						<td height="40" width="380" style="background-color:white"> </td>
-						<td width="230" style="background-color:#FF5B00; font-size:125%; font-family:arial; color:#FFFFFF" align="center"> ENTRAR </td> 
-					</tr>
+						<td width="230" style="background-color:#FF5B00; font-size:125%; font-family:arial; color:#FFFFFF" align="center"> ENTRAR 
 					<tr height="15"> </tr>
 					<tr>
-						<td height="40" width="370" style="background-color:white"> </td>
-						<td width="230" style="background-color:#FF5B00; font-size:125%; font-family:arial; text-align:center; color:#FFFFFF"> CADASTRE-SE </td> 
-					</tr>
+						<td height="40" style="background-color:white"> </td>
+						<td width="230" style="background-color:#FF5B00; font-size:125%; font-family:arial; text-align:center; color:#FFFFFF"> CADASTRE-SE 
 				</table>
 	
