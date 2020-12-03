@@ -12,7 +12,7 @@
 			</tr>
 		</tbody>
 		</table>
-		<h> LOGIN </h>
+		<h style="font-size:200%; font-family:arial"> LOGIN </h>	
 	</body>
-
 </html>
+
