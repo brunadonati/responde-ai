@@ -14,11 +14,9 @@
 			</tr>
 			<tr height="30"> </tr>
 			<tr> 
-				<td colspan="4" align="center"> <form> e-mail : <input type="text" name="E-mail"> </td> 
-			</tr>
+				<td colspan="4" align="center"> <form> e-mail : <input type="text" name="E-mail"> 
 			<tr> 
-				<td colspan="4" align="center"> <form> senha : <input type="password" name="Senha"> </td> 
-			</tr>
+				<td colspan="4" align="center"> <form> senha : <input type="password" name="Senha"> 
 			<tr height="30"> </tr> 
 				<table>
 					<tr>
