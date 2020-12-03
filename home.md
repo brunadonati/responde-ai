@@ -13,8 +13,6 @@
 	<figure>
 		<img src="RespondeAi.png" alt="Logo">
 	</figure>
-
 	</body>
-
 </html>
 
