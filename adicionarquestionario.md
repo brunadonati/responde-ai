@@ -50,9 +50,7 @@
 					<input width="2000" type="url" id="homepage" name="homepage">
 				</td>
 			</tr>
-			
 			</form>
-
 		</table>
 		
 
