@@ -9,7 +9,7 @@
 				<th width="2000" style="background-color:#FF5B00"> </th>
 				<th width="175" style="color: white; background-color:#FF5B00"> Quem somos </th>
 				<th width="175" style="color: white; background-color:#FF5B00"> Como funciona </th>
-				<th width="175" style="color: white; background-color:#FF5B00"> <a href=“PaginaLogin.html”> Login </a> </th>
+				<th width="175" style="color: white; background-color:#FF5B00"> <a href=“login”> Login </a> </th>
 			</tr>
 		</tbody>
 		</table>
