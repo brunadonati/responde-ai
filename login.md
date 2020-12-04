@@ -20,9 +20,9 @@
 			<tr height="25"> </tr> 
 				<table>
 					<tr>
-						<td height="40" width="415" style="background-color:white"> </td>
+						<td height="40" width="400" style="background-color:white"> </td>
 						<td width="245" style="background-color:#FF5B00; font-size:125%; font-family:arial; color:#FFFFFF" align="center"> ENTRAR 
 					<tr height="15"> </tr>
 					<tr>
-						<td height="40" width="415" style="background-color:white"> </td>
+						<td height="40" width="400" style="background-color:white"> </td>
 						<td width="245" style="background-color:#FF5B00; font-size:125%; font-family:arial; text-align:center; color:#FFFFFF"> CADASTRE-SE
